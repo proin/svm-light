@@ -1,0 +1,14 @@
+{
+  "name": "svm-light",
+  "version": "1.0.0",
+  "description": "svm-light multiclass wrapper, http://www.cs.cornell.edu/people/tj/svm_light/svm_multiclass.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^5.0.1"
+  }
+}
