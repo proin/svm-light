@@ -8,7 +8,8 @@ npm install --save svm-light
 
 ### How To Use
 
-learn & classify function available. All the functions are promise object. See below.
+- learn & classify function available. All the functions are promise object. See below.
+- example are [here](http://saturn.proinlab.com/project.html#/machine-learning/svm-light.satbook)
 
 ```javascript
 let {learn, classify} = require('svm-light');

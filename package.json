@@ -1,6 +1,6 @@
 {
   "name": "svm-light",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "svm-light multiclass wrapper, http://www.cs.cornell.edu/people/tj/svm_light/svm_multiclass.html",
   "main": "index.js",
   "scripts": {
