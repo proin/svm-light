@@ -4,3 +4,6 @@
 dump.rdb
 npm-debug.log
 node_modules/
+*.swp
+data/
+test.js
